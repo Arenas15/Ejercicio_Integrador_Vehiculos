@@ -85,4 +85,7 @@ public class Producto {
 				+ ", unidadesVendidas=" + unidadesVendidas + ", fechaElaboracion=" + fechaElaboracion
 				+ ", fechaVencimiento=" + fechaVencimiento + "]";
 	}
+    
+
+
 }
